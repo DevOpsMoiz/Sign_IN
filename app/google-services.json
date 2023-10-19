@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710974288461",
+    "project_id": "signin-56f48",
+    "storage_bucket": "signin-56f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710974288461:android:314a40a4ae703ebb9c6204",
+        "android_client_info": {
+          "package_name": "com.example.signin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZJDGxrIxoHKmxQhdo85HJFQi_fQkB5Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
